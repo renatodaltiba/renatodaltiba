@@ -2,17 +2,13 @@
 <h3 align="center">Eu sou programador e gosto muito de participar do crescimento de sua empresa <3 </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maykbrito" alt="maykbrito" /> </p>
 
-- 🔭 I’m currently working on [Rocketseat](https://github.com/Rocketseat)
+- 🔭 Atualmente estou trabalhando na Prefeitura de Ariquemes
 
-- 👨‍💻 All of my projects are available at [mayk.brito.net.br](https://mayk.brito.net.br)
+- 💬 Pergunte-me sobre **JavaScript, HTML, CSS, SQL**
 
-- ▶️ I regulary post videos on [youtube.com/rocketseat](https://youtube.com/rocketseat)
+- 📫 Como me encontrar **renatodaltiba@gmail.com**
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL**
-
-- 📫 How to reach me **maykbrito@gmail.com**
-
-- ⚡ Fun fact **Oneye 😜**
+- ⚡ Fato engraçado **Oneye 😜**
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
@@ -25,13 +21,9 @@
 </p>
 
 <p align="center">
-<a href="https://codepen.io/maykbrito" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="maykbrito" height="20" width="20" /></a>
-<a href="https://twitter.com/maykbrito" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="maykbrito" height="20" width="20" /></a>
-<a href="https://linkedin.com/in/maykbrito" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="maykbrito" height="20" width="20" /></a>
-<a href="https://stackoverflow.com/maykbrito" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="maykbrito" height="20" width="20" /></a>
-<a href="https://codesandbox.com/maykbrito" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="maykbrito" height="20" width="20" /></a>
-<a href="https://fb.com/maykbrito" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="maykbrito" height="20" width="20" /></a>
-<a href="https://instagram.com/maykbrito" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="maykbrito" height="20" width="20" /></a>
+<a href="https://www.linkedin.com/in/renato-d-schneider-b6555b1a0/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="maykbrito" height="20" width="20" /></a>
+<a href="https://fb.com/renatodaltiba" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="maykbrito" height="20" width="20" /></a>
+<a href="https://instagram.com/renatodaltiba" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="maykbrito" height="20" width="20" /></a>
 </p>
 
 <!--
