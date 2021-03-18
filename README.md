@@ -6,7 +6,7 @@
 
 <p align="center">- 💬 Pergunte-me sobre **JavaScript, HTML, CSS, SQL**</p>
 
-<p align="center">- 📫 Como me encontrar **renatodaltiba@gmail.com**</p>
+<p align="center">- 📫 Como me encontrar <b>enatodaltiba@gmail.com**</p>
 
 <p align="center">- ⚡ Fato engraçado **Oneye 😜**</p>
 
