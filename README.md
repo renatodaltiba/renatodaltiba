@@ -4,11 +4,11 @@
 
 <p align="center">- 🔭 Atualmente estou trabalhando na Prefeitura de Ariquemes</p>
 
-- 💬 Pergunte-me sobre **JavaScript, HTML, CSS, SQL**
+<p align="center">- 💬 Pergunte-me sobre **JavaScript, HTML, CSS, SQL**</p>
 
-- 📫 Como me encontrar **renatodaltiba@gmail.com**
+<p align="center">- 📫 Como me encontrar **renatodaltiba@gmail.com**</p>
 
-- ⚡ Fato engraçado **Oneye 😜**
+<p align="center">- ⚡ Fato engraçado **Oneye 😜**</p>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/>
