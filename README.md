@@ -2,7 +2,7 @@
 <h3 align="center">Eu sou programador e gosto muito de participar do crescimento de sua empresa <3 </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=renatodaltiba" alt="renatodaltiba" /> </p>
 
-- 🔭 Atualmente estou trabalhando na Prefeitura de Ariquemes
+<p align="center">- 🔭 Atualmente estou trabalhando na Prefeitura de Ariquemes</p>
 
 - 💬 Pergunte-me sobre **JavaScript, HTML, CSS, SQL**
 
