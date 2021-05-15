@@ -12,5 +12,5 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/renatodaltiba/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="RENATO" height="20" width="20" /></a>
 <a href="https://fb.com/renatodaltiba" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Renato" height="20" width="20" /></a>
-<a href="https://instagram.com/renatodaltiba" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Renato" height="20" width="20" /></a>
+<a href="https://instagram.com/renatodaltiba" target="blank"><img align="center" styles="color: #fff" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Renato" height="20" width="20" /></a>
 </p>
