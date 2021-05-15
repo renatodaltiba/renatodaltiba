@@ -4,7 +4,7 @@
 
 <p align="center">- 🔭 Atualmente estou trabalhando como desenvolvedor junior na Prefeitura de Ariquemes</p>
 
-<p align="center">- 💬 **ADONISJS, NEXTJS, HTML, CSS, SQL**</p>
+<p align="center">- 💬 SKILLS: ADONISJS, NEXTJS, HTML, CSS, SQL</p>
 
 <p align="center">- 📫 Como me encontrar <b>renatodaltiba@gmail.com</b></p>
 
