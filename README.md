@@ -11,7 +11,7 @@ I'm a self-taught passionate FrontEnd developer from Brazil
 
 **About me**
 
-- 💼 Junior Full Stack Developer at [Prefeitura de Ariquemes](ariquemes.ro.gov.br)
+- 💼 Pleno Full Stack Developer at [Prefeitura de Ariquemes](ariquemes.ro.gov.br)
 
 - ❤️ I love writing TypeScript, and building fun experiments on type-level
 
