@@ -1,63 +1,61 @@
-## Olá, sou Renato D. Schneider! 👋
+## Olá, mundo! 👋 Eu sou Renato D. Schneider
 
-![Developer](https://img.shields.io/badge/Developer-React%20%7C%20Node%20%7C%20TS%20%7C%20.NET%20%7C%20ASP.NET%20%7C%20GO%20%7C%20GITOPS-blue)
+![Developer](https://img.shields.io/badge/Desenvolvedor-React%20%7C%20Node%20%7C%20TS%20%7C%20.NET%20%7C%20ASP.NET%20%7C%20GO%20%7C%20GITOPS-blue)
 
-Sou um Desenvolvedor Full-Stack com ênfase em desenvolvimento front-end. Atualmente, estou trabalhando na Ativos Capital como Desenvolvedor Front-End Sênior. 
+Sou um Desenvolvedor Full-Stack especializado em Front-end, atualmente baseado em Chapecó, Santa Catarina. Estou empenhado em criar experiências digitais impressionantes, apoiadas por tecnologias robustas e modernas.
 
-Tenho uma forte experiência em tecnologias web como React.js, Node.js, TypeScript, .NET, ASP.NET, GO e muito mais.
+## 🏢 Experiência Profissional Atual
 
-## 👨🏻‍💻 Atualmente Trabalhando
+Estou desempenhando o papel de **Desenvolvedor Front-end Sênior** na **Ativos Capital**, onde me concentro na manutenção e desenvolvimento de funcionalidades front-end em todos os projetos ativos. 
 
-Atualmente estou trabalhando na **Ativos Capital** como **Desenvolvedor Front-end Sênior**. Na Ativos Capital sou responsável pela sustentação e desenvolvimento de funcionalidades no front-end, atuando em todos os projetos ativos.
+Minhas responsabilidades incluem:
 
-Algumas de minhas responsabilidades:
+- Liderança no desenvolvimento de interfaces de usuário empregando React, JavaScript, HTML e CSS.
+- Colaboração com a equipe de design para materializar interfaces de usuário que ofereçam uma experiência excepcional.
+- Definição de tarefas e discussão de requisitos em reuniões de equipe.
+- Garantia da qualidade do software através da escrita e execução de testes automatizados usando Jest e Enzyme.
+- Identificação e resolução de problemas relacionados a desempenho, escalabilidade e usabilidade.
+- Manutenção da documentação atualizada e codificação legível.
+- Orientação e treinamento de desenvolvedores juniores da equipe.
+- Participação ativa na definição da arquitetura e decisões técnicas.
 
-- Liderar o desenvolvimento de interfaces de usuário usando React, JavaScript, HTML e CSS.
-- Colaborar com a equipe de design para implementar designs de interfaces de usuário que proporcionem uma experiência de usuário excepcional.
-- Participar de reuniões com a equipe para definir as tarefas a serem executadas e discutir requisitos.
-- Escrever e executar testes automatizados usando Jest e Enzyme para garantir a qualidade do software produzido.
-- Identificar e solucionar problemas de desempenho, escalabilidade e usabilidade.
-- Documentar o código produzido e manter a documentação atualizada.
-- Treinar e orientar desenvolvedores mais juniores da equipe.
-- Participar na definição de arquitetura e nas tomadas de decisão técnicas.
-- Aprender continuamente novas tecnologias e práticas de desenvolvimento para melhorar minhas habilidades e contribuir com novas ideias para a equipe.
+## 🌎 Experiências Profissionais Anteriores
 
-## 💼 Experiências Anteriores
+No passado, trabalhei como **Desenvolvedor Front-end Pleno** para a Prefeitura Municipal de Ariquemes. Contribuí para um projeto de vacinação, sendo responsável pela implementação da interface de usuário, colaborando de perto com a equipe de back-end.
 
-**Desenvolvedor Front-end Pleno**, Prefeitura Municipal de Ariquemes - Trabalhei num projeto de vacinação onde era responsável por implementar a interface de usuário, trabalhando em estreita colaboração com a equipe de back-end.
+## 🔬 Competências
 
-## 🌱 Competências
-
-Aqui estão algumas das tecnologias que tenho trabalhado recentemente:
+Ao longo da minha carreira, tive a oportunidade de adquirir e aperfeiçoar habilidades em diversas tecnologias, incluindo:
 
 ### Frontend
-- `React.js` / `Next.js`
-- `JavaScript` / `TypeScript`
-- `HTML5` / `CSS3`
-- `Stitches.JS`
-- `Tailwind`
-- `Styled-components`
-- `React Query`
+- React.js / Next.js
+- JavaScript / TypeScript
+- HTML5 / CSS3
+- Stitches.JS
+- Tailwind
+- Styled-components
+- React Query
 
 ### Backend
-- `Node.js`
-- `.NET` / `ASP.NET`
-- `GO (Golang)`
-- `GraphQL`
-- `Rest APIs`
-- `Database Systems`: MongoDB, PostgreSQL, MySQL
-- `ORMs`: Sequelize, TypeORM
+- Node.js
+- .NET / ASP.NET
+- GO (Golang)
+- GraphQL
+- Rest APIs
+- Sistemas de Banco de Dados: MongoDB, PostgreSQL, MySQL
+- ORMs: Sequelize, TypeORM
 
 ### DevOps
-- `Docker` / `Kubernetes`
-- `CI/CD`: Jenkins, GitHub Actions, ArgoCD
-- `Version Control`: Git, GitOps
+- Docker / Kubernetes
+- CI/CD: Jenkins, GitHub Actions, ArgoCD
+- Controle de Versão: Git, GitOps
 
+Acredito no aprendizado contínuo e estou sempre ansioso para me familiarizar com novas tecnologias e práticas de desenvolvimento.
 
-## 📬 Entre em Contato
+## 💌 Entre em Contato
 
-Se você deseja entrar em contato comigo, pode me encontrar no [LinkedIn](https://www.linkedin.com/in/renatodaltiba/).
+Gostaria de conversar sobre um projeto ou simplesmente dizer olá? Sinta-se à vontade para me encontrar no [LinkedIn](https://www.linkedin.com/in/renatodaltiba/).
 
 --- 
 
-⭐️ From [renatodaltiba](https://github.com/renatodaltiba)
+⭐️ De [Renato D. Schneider](https://github.com/renatodaltiba)
