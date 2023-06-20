@@ -30,7 +30,29 @@ Algumas de minhas responsabilidades:
 
 Aqui estão algumas das tecnologias que tenho trabalhado recentemente:
 
-`Next.js`, `Stitches.JS`, `CI/CD`, `Code Review`, `React`, `Tailwind`, `Styled-components`, `Docker`, `axios`, `HTML`, `CSS`
+### Frontend
+- `React.js` / `Next.js`
+- `JavaScript` / `TypeScript`
+- `HTML5` / `CSS3`
+- `Stitches.JS`
+- `Tailwind`
+- `Styled-components`
+- `React Query`
+
+### Backend
+- `Node.js`
+- `.NET` / `ASP.NET`
+- `GO (Golang)`
+- `GraphQL`
+- `Rest APIs`
+- `Database Systems`: MongoDB, PostgreSQL, MySQL
+- `ORMs`: Sequelize, TypeORM
+
+### DevOps
+- `Docker` / `Kubernetes`
+- `CI/CD`: Jenkins, GitHub Actions, ArgoCD
+- `Version Control`: Git, GitOps
+
 
 ## 📬 Entre em Contato
 
@@ -38,4 +60,4 @@ Se você deseja entrar em contato comigo, pode me encontrar no [LinkedIn](https:
 
 --- 
 
-⭐️ From [RenatoDS](https://github.com/renatodaltiba)
+⭐️ From [renatodaltiba](https://github.com/renatodaltiba)
