@@ -1,32 +1,41 @@
-<h2 align="center">👋 Hello! I'm Renato.</h2>
-<p align="center">
-  <a href="https://www.linkedin.com/in/renatodaltiba/">Linkedin</a> •
-  <a href="https://www.instagram.com/renatodaltiba/">Instagram</a>
-</p>
-<br />
+## Olá, sou Renato D. Schneider! 👋
 
-<br />
+![Developer](https://img.shields.io/badge/Developer-React%20%7C%20Node%20%7C%20TS%20%7C%20.NET%20%7C%20ASP.NET%20%7C%20GO%20%7C%20GITOPS-blue)
 
-I'm a self-taught passionate FrontEnd developer from Brazil
+Sou um Desenvolvedor Full-Stack com ênfase em desenvolvimento front-end. Atualmente, estou trabalhando na Ativos Capital como Desenvolvedor Front-End Sênior. 
 
-**About me**
+Tenho uma forte experiência em tecnologias web como React.js, Node.js, TypeScript, .NET, ASP.NET, GO e muito mais.
 
-- 💼 Pleno Full Stack Developer at [Prefeitura de Ariquemes](ariquemes.ro.gov.br)
+## 👨🏻‍💻 Atualmente Trabalhando
 
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
+Atualmente estou trabalhando na **Ativos Capital** como **Desenvolvedor Front-end Sênior**. Na Ativos Capital sou responsável pela sustentação e desenvolvimento de funcionalidades no front-end, atuando em todos os projetos ativos.
 
-- 💬 Ask me about anything [here](https://github.com/renatodaltiba/renatodaltiba/issues)
+Algumas de minhas responsabilidades:
 
-**Languages and Tools:**
+- Liderar o desenvolvimento de interfaces de usuário usando React, JavaScript, HTML e CSS.
+- Colaborar com a equipe de design para implementar designs de interfaces de usuário que proporcionem uma experiência de usuário excepcional.
+- Participar de reuniões com a equipe para definir as tarefas a serem executadas e discutir requisitos.
+- Escrever e executar testes automatizados usando Jest e Enzyme para garantir a qualidade do software produzido.
+- Identificar e solucionar problemas de desempenho, escalabilidade e usabilidade.
+- Documentar o código produzido e manter a documentação atualizada.
+- Treinar e orientar desenvolvedores mais juniores da equipe.
+- Participar na definição de arquitetura e nas tomadas de decisão técnicas.
+- Aprender continuamente novas tecnologias e práticas de desenvolvimento para melhorar minhas habilidades e contribuir com novas ideias para a equipe.
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+## 💼 Experiências Anteriores
 
-| <a href="https://github-readme-stats.vercel.app/api?username=renatodaltiba"><img align="center" src="https://github-readme-stats.vercel.app/api?username=renatodaltiba&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github-readme-stats.vercel.app/api?username=renatodaltiba"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatodaltiba&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+**Desenvolvedor Front-end Pleno**, Prefeitura Municipal de Ariquemes - Trabalhei num projeto de vacinação onde era responsável por implementar a interface de usuário, trabalhando em estreita colaboração com a equipe de back-end.
 
-<br />
-<br />
+## 🌱 Competências
+
+Aqui estão algumas das tecnologias que tenho trabalhado recentemente:
+
+`Next.js`, `Stitches.JS`, `CI/CD`, `Code Review`, `React`, `Tailwind`, `Styled-components`, `Docker`, `axios`, `HTML`, `CSS`
+
+## 📬 Entre em Contato
+
+Se você deseja entrar em contato comigo, pode me encontrar no [LinkedIn](https://www.linkedin.com/in/renatodaltiba/).
+
+--- 
+
+⭐️ From [RenatoDS](https://github.com/renatodaltiba)
